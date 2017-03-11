@@ -1,0 +1,9 @@
+{
+  "globalDependencies": {
+    "ace": "registry:dt/ace#0.0.0+20160727012524",
+    "jquery": "registry:dt/jquery#1.10.0+20170123093700"
+  },
+  "dependencies": {
+    "markdown-it": "registry:dt/markdown-it#0.0.0+20161221020919"
+  }
+}
