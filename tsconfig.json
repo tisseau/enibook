@@ -1,7 +1,0 @@
-{
-    "compilerOptions": {
-        "outFile": "site/js/enibook/enibook.js",
-        "typeRoots" : ["src/typings/globals", "src/typings/modules"]
-    },
-    "include": ["src/**/*"]
-}
